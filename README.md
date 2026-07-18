@@ -1,10 +1,14 @@
 <div align="center">
-  <h1><b>Hola, soy Anthoan</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  <p style="font-size: 2em; font-weight: bold; margin-bottom: 10px;">
+    Hola, soy Anthoan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  </p>
   
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=7a1322&size=25&center=true&vCenter=true&width=600&height=100&lines=¡Hola,+bienvenido+a+mi+perfil!;Desarrollador+Fullstack;Estudiante+de+Ingeniería+en+Informática;Apasionado+de+Linux+y+Bases+de+Datos;Siempre+aprendiendo+cosas+nuevas..." alt="Typing SVG">
   </a>
 </div>
+
+<hr>
 
 <hr>
 
