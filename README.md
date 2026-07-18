@@ -6,7 +6,7 @@
   </a>
 </div>
 
----
+<hr>
 
 <p align="center">
   <img src="img/banner.png" alt="Banner de Anthoan Gonzalez" width="100%">
