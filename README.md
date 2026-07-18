@@ -1,5 +1,9 @@
 # ¡Hola! Soy Anthoan Gonzalez 👋
 
+<p align="center">
+  <img src="img/banner.jpg" alt="Banner de Anthoan Gonzalez" width="100%">
+</p>
+
 ### 🚀 Desarrollador Web & Consultor de Base de Datos | Estudiante de Ingeniería en Informática
 
 Soy Técnico Superior Universitario en Informática y actual estudiante de Ingeniería. Me enfoco en el desarrollo backend y el diseño avanzado de bases de datos relacionales, priorizando la creación de arquitecturas limpias, escalables y seguras. 
