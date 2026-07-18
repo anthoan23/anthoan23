@@ -7,13 +7,15 @@
   <img src="img/banner.png" alt="Banner de Anthoan Gonzalez" width="100%">
 </p> 
 
+<img src="https://raw.githubusercontent.com/kreativkaustubh/github-profile-readme-contents/main/assets/lines/red.gif" width="100%">
+
 ### 🚀 Desarrollador Web & Consultor de Base de Datos | Estudiante de Ingeniería en Informática
 
 Soy Técnico Superior Universitario en Informática y actual estudiante de Ingeniería. Me enfoco en el desarrollo backend y el diseño avanzado de bases de datos relacionales, priorizando la creación de arquitecturas limpias, escalables y seguras. 
 
 Apasionado de la optimización en entornos Linux, la contenedorización y el despliegue eficiente en la nube.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa959-b2b2-4da3-a174-a8af20b666a4.gif" width="100%">
+---
 
 ### 🛠️ Tecnologías y Herramientas
 
