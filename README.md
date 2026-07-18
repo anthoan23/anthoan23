@@ -39,10 +39,9 @@ Apasionado de la optimización en entornos Linux, la contenedorización y el des
 
 ⚡ ¡Un vistazo rápido a mi actividad y rendimiento de desarrollo!
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anthoan23&show_icons=true&theme=dark&count_private=true" alt="Estadísticas de Anthoan" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anthoan23&theme=dark" alt="Racha de Commits de Anthoan" height="150" />
-</p>
+| Estadísticas generales | Racha de contribuciones |
+| :---: | :---: |
+| <img src="https://github-readme-stats-six-restyle.vercel.app/api?username=anthoan23&show_icons=true&theme=dark&count_private=true" alt="Estadísticas de Anthoan" height="170" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=anthoan23&theme=dark" alt="Racha de Commits de Anthoan" height="170" /> |
 
 ---
 
