@@ -1,7 +1,7 @@
 # ¡Hola! Soy Anthoan Gonzalez 👋
 
 <p align="center">
-  <img src="img/banner.jpg" alt="Banner de Anthoan Gonzalez" width="100%">
+  <img src="img/banner.png" alt="Banner de Anthoan Gonzalez" width="100%">
 </p>
 
 ### 🚀 Desarrollador Web & Consultor de Base de Datos | Estudiante de Ingeniería en Informática
