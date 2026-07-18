@@ -1,23 +1,5 @@
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; background: transparent;">
-    <tr style="border: none; background: transparent;">
-      <td align="center" style="border: none; padding: 0; margin: 0;">
-        <span style="font-size: 28px; font-weight: bold; color: white; display: block; line-height: 1;">
-          Hola, soy Anthoan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="display: inline-block; vertical-align: middle;">
-        </span>
-      </td>
-    </tr>
-    <tr style="border: none; background: transparent;">
-      <td align="center" style="border: none; padding: 0; margin: 0;">
-        <a href="https://github.com/DenverCoder1/readme-typing-svg" style="display: block; margin: 0; padding: 0;">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=7a1322&size=25&center=true&vCenter=true&width=600&height=100&lines=¡Hola,+bienvenido+a+mi+perfil!;Desarrollador+Fullstack;Estudiante+de+Ingeniería+en+Informática;Apasionado+de+Linux+y+Bases+de+Datos;Siempre+aprendiendo+cosas+nuevas..." alt="Typing SVG" style="display: block; margin: 0; padding: 0;">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
-<hr>
+<h1><b>Hola, soy Anthoan</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <img src="img/banner.png" alt="Banner de Anthoan Gonzalez" width="100%">
