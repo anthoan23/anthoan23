@@ -46,8 +46,8 @@ Apasionado de la optimización en entornos Linux, la contenedorización y el des
 
 <p align="center">
 <a href="https://github.com/anthoan23">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anthoan23&show_icons=true&theme=rose_pine&icon_color=7a1322&title_color=7a1322&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anthoan23&layout=compact&langs_count=8&theme=rose_pine&title_color=7a1322"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anthoan23&show_icons=true&bg_color=0d1117&title_color=7a1322&icon_color=7a1322&text_color=ffffff&border_color=7a1322&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anthoan23&layout=compact&langs_count=8&bg_color=0d1117&title_color=7a1322&text_color=ffffff&border_color=7a1322"/>
 </a>
 </p>
 
