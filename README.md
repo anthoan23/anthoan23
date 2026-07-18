@@ -47,18 +47,6 @@ Mi objetivo es entregar software que no solo sea funcional, sino seguro, escalab
 
 ---
 
-### 🎓 Proyectos Institucionales y Universitarios
-
-🔹 **CEDI – Sistema de Gestión Hospitalaria Integral**
-*   **Descripción:** Plataforma robusta desarrollada para entorno hospitalario. Administra de extremo a extremo desde el historial clínico digital de los pacientes hasta el control automatizado y almacenamiento de insumos médicos.
-*   **Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-🔹 **E-commerce & Catálogo Web Interactivo**
-*   **Descripción:** Aplicación web enfocada en el comercio electrónico, con pasarela de navegación fluida, estructura de datos eficiente para la gestión de productos y diseño dinámico.
-*   **Stack:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;GitHub Analytics
 
 <p align="center">
