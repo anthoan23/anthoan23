@@ -7,6 +7,20 @@
   <img src="img/banner.png" alt="Banner de Anthoan Gonzalez" width="100%">
 </p> 
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/anthoan-gonzalez-colinas-234079358/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/anthoan_gc" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:telefonodeanthoan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
 ---
 
 ### 🚀 Desarrollador Web & Consultor de Base de Datos | Estudiante de Ingeniería en Informática
@@ -52,13 +66,6 @@ Apasionado de la optimización en entornos Linux, la contenedorización y el des
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anthoan23&layout=compact&langs_count=8&bg_color=0d1117&title_color=7a1322&text_color=ffffff&border_color=7a1322"/>
 </a>
 </p>
-
----
-
-### 📫 Conéctate conmigo
-
-*   📧 **Correo Electrónico:** telefonodeanthoan@gmail.com
-*   💼 **LinkedIn:** [Tu Perfil](https://linkedin.com/in/tu-usuario)
 
 ---
 
