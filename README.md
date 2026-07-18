@@ -17,7 +17,7 @@ Apasionado de la optimización en entornos Linux, la contenedorización y el des
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologías y Herramientas</b>
 
 | Área | Tecnologías |
 | :--- | :--- |
@@ -44,7 +44,7 @@ Apasionado de la optimización en entornos Linux, la contenedorización y el des
 
 ---
 
-### ⚙️ &nbsp;GitHub Analytics
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/anthoan23">
