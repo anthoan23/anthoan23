@@ -23,11 +23,11 @@
 
 ---
 
-### 🚀 Desarrollador Web & Consultor de Base de Datos | Estudiante de Ingeniería en Informática
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FkMmNjNTk4M2JkMmNlZDM5YTNmNzRlYTg1M2M0YmQzZWU1MzhlZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/3oKIPnApe9CluI2d3O/giphy.gif" width="30"> Sobre mí
 
-Soy Técnico Superior Universitario en Informática y actual estudiante de Ingeniería. Me enfoco en el desarrollo backend y el diseño avanzado de bases de datos relacionales, priorizando la creación de arquitecturas limpias, escalables y seguras. 
+Soy Técnico Superior Universitario en Informática y actual estudiante de Ingeniería en la **Universidad Politécnica Territorial Andrés Eloy Blanco (UPTAEB)**. Mi enfoque va mucho más allá del desarrollo fullstack convencional; aplico conocimientos sólidos en cada una de las fases del ciclo de vida del software, desde el análisis inicial de Requerimientos Funcionales (RF) hasta las etapas críticas de despliegue y validación.
 
-Apasionado de la optimización en entornos Linux, la contenedorización y el despliegue eficiente en la nube.
+Me apasiona construir soluciones robustas con un fuerte enfoque en la **calidad del software**. Cuento con experiencia ejecutando pruebas de **caja negra y caja blanca** para garantizar la estabilidad del código, y aplico prácticas de **seguridad informática y auditoría** para proteger la integridad del sistema. Todo esto combinado con la optimización en entornos Linux, la contenedorización y una mentalidad orientada a crear arquitecturas limpias, escalables y eficientes.
 
 ---
 
