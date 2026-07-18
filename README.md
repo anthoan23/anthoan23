@@ -9,15 +9,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anthoan-gonzalez-colinas-234079358/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-7a1322?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/anthoan_gc" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-7a1322?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   &nbsp;&nbsp;
   <a href="mailto:telefonodeanthoan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-7a1322?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
