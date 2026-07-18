@@ -23,7 +23,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/images/user.svg" width="30"> Sobre mí
+## 👤 Sobre mí
 
 Soy Técnico Superior Universitario en Informática y estudiante de Ingeniería en la **UPTAEB**. Mi perfil abarca todo el proceso de ingeniería de software, combinando el desarrollo backend avanzado, el diseño de bases de datos relacionales y una visión integral del ciclo de desarrollo:
 
