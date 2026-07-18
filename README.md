@@ -13,7 +13,7 @@ Soy Técnico Superior Universitario en Informática y actual estudiante de Ingen
 
 Apasionado de la optimización en entornos Linux, la contenedorización y el despliegue eficiente en la nube.
 
----
+<img src="https://img.shields.io/badge/-%20-7a1322?style=flat&logo=&labelColor=7a1322&width=1000&height=2" alt="Red Divider">
 
 ### 🛠️ Tecnologías y Herramientas
 
