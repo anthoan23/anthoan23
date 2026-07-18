@@ -47,19 +47,15 @@ Mi objetivo es entregar software que no solo sea funcional, sino seguro, escalab
 
 ---
 
-### 🌟 Proyectos Destacados
+### 🎓 Proyectos Institucionales y Universitarios
 
-🔹 **Sistema de Gestión e Inventario Multi-tienda**
-*   **Descripción:** Aplicación robusta orientada a la gestión de inventario retail. Implementa lógica compleja de backend, optimización de consultas SQL y manejo de sesiones.
-*   **Stack:** Python (Flask), MySQL, MVC, Docker.
+🔹 **CEDI – Sistema de Gestión Hospitalaria Integral**
+*   **Descripción:** Plataforma robusta desarrollada para entorno hospitalario. Administra de extremo a extremo desde el historial clínico digital de los pacientes hasta el control automatizado y almacenamiento de insumos médicos.
+*   **Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-🔹 **Ecosistema de Gestión Digital Empresarial**
-*   **Descripción:** Plataforma integral para la administración de talleres y servicios. Diseñada bajo contenedores Docker y desplegada con éxito en servidores virtuales en la nube.
-*   **Stack:** Python (Flask), MySQL, Docker Compose, AWS (EC2/VPS).
-
-🔹 **Catálogos Interactivos Web**
-*   **Descripción:** Interfaces optimizadas y dinámicas para catálogos comerciales, enfocadas en un rendimiento fluido y una estructura de datos eficiente.
-*   **Stack:** PHP, JavaScript, CSS3.
+🔹 **E-commerce & Catálogo Web Interactivo**
+*   **Descripción:** Aplicación web enfocada en el comercio electrónico, con pasarela de navegación fluida, estructura de datos eficiente para la gestión de productos y diseño dinámico.
+*   **Stack:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
