@@ -7,7 +7,7 @@
   <img src="img/banner.png" alt="Banner de Anthoan Gonzalez" width="100%">
 </p> 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834233-853e0680-a447-11eb-98ef-ca22bbaf6dae.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7a1322&height=3&section=header" width="100%" />
 
 ### 🚀 Desarrollador Web & Consultor de Base de Datos | Estudiante de Ingeniería en Informática
 
