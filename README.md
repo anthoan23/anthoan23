@@ -3,6 +3,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=80152B&size=25&center=true&vCenter=true&width=600&height=50&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Desarrollador+Front-End+Autodidacta,;Estudiante+de+Ciencias+de+la+Computacion,;Novato+en+CTF,;Aprendiz+y+Investigador+Activo,;Me+encanta+aprender+cosas+nuevas..<3"></a>
 </h1>
 
+<p align="center">
+  <img src="img/banner.png" alt="Banner de Anthoan Gonzalez" width="100%">
+</p> 
+
 ### 🚀 Desarrollador Web & Consultor de Base de Datos | Estudiante de Ingeniería en Informática
 
 Soy Técnico Superior Universitario en Informática y actual estudiante de Ingeniería. Me enfoco en el desarrollo backend y el diseño avanzado de bases de datos relacionales, priorizando la creación de arquitecturas limpias, escalables y seguras. 
