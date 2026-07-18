@@ -7,7 +7,7 @@
   <img src="img/banner.png" alt="Banner de Anthoan Gonzalez" width="100%">
 </p> 
 
-<img src="https://raw.githubusercontent.com/kreativkaustubh/github-profile-readme-contents/main/assets/lines/red.gif" width="100%">
+<img src="https://raw.githubusercontent.com/kreativkaustubh/kreativkaustubh/main/assets/lines/red.gif" width="100%">
 
 ### 🚀 Desarrollador Web & Consultor de Base de Datos | Estudiante de Ingeniería en Informática
 
