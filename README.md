@@ -15,7 +15,7 @@ Soy Técnico Superior Universitario en Informática y actual estudiante de Ingen
 
 Apasionado de la optimización en entornos Linux, la contenedorización y el despliegue eficiente en la nube.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7a1322&height=3&section=header" width="100%" />
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologías y Herramientas</b>
 
@@ -26,7 +26,7 @@ Apasionado de la optimización en entornos Linux, la contenedorización y el des
 | **Bases de Datos** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) |
 | **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS_EC2_/_VPS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7a1322&height=3&section=header" width="100%" />
 
 ### 🌟 Proyectos Destacados
 
@@ -42,7 +42,7 @@ Apasionado de la optimización en entornos Linux, la contenedorización y el des
 *   **Descripción:** Interfaces optimizadas y dinámicas para catálogos comerciales, enfocadas en un rendimiento fluido y una estructura de datos eficiente.
 *   **Stack:** PHP, JavaScript, CSS3.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7a1322&height=3&section=header" width="100%" />
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;GitHub Analytics
 
@@ -53,12 +53,13 @@ Apasionado de la optimización en entornos Linux, la contenedorización y el des
 </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7a1322&height=3&section=header" width="100%" />
 
 ### 📫 Conéctate conmigo
 
 *   📧 **Correo Electrónico:** telefonodeanthoan@gmail.com
 *   💼 **LinkedIn:** [Tu Perfil](https://linkedin.com/in/tu-usuario)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7a1322&height=3&section=header" width="100%" />
+
 ⚡ *“El código limpio siempre parece que fue escrito por alguien a quien le importa”.*
