@@ -1,10 +1,7 @@
 <h1 align="center">
   <b>Hola, soy Anthoan</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=50&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=80152B&size=25&center=true&vCenter=true&width=600&height=50&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Desarrollador+Front-End+Autodidacta,;Estudiante+de+Ciencias+de+la+Computacion,;Novato+en+CTF,;Aprendiz+y+Investigador+Activo,;Me+encanta+aprender+cosas+nuevas..<3"></a>
 </h1>
-<p align="center">
-  <img src="img/banner.png" alt="Banner de Anthoan Gonzalez" width="100%">
-</p>
 
 ### 🚀 Desarrollador Web & Consultor de Base de Datos | Estudiante de Ingeniería en Informática
 
